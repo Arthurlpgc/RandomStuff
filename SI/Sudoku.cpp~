@@ -3,8 +3,7 @@
 #include <cstdlib>
 #include <cstring>
 using namespace std;
-#define Big 9
-#define Small 3
+
 string lines[Big];
 int quant[Big];
 int quantSqr[Big][Big];
